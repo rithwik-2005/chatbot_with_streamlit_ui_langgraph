@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-openai
+python-dotenv
+langchain_huggingface
+transformers
+huggingface-hub
+anthropic 
+langchain-anthropic
+pydantic 
+streamlit
