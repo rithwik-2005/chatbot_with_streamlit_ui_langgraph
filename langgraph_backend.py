@@ -19,7 +19,7 @@ class ChatState(TypedDict):
 def chat_node(state:ChatState):
     messages=state["messages"]
     response=model.invoke(messages)
-    return {"messages",[response]}
+    return {"messages": [response]}
 
 #initalisation checkpointer
 checkpointer=InMemorySaver()
