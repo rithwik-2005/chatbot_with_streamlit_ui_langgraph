@@ -9,3 +9,4 @@ anthropic
 langchain-anthropic
 pydantic 
 streamlit
+langchain_community
